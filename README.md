@@ -67,7 +67,7 @@ I'm a software developer who enjoys building things that are both useful and tho
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adhi&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=0DFF00&icon_color=0DFF00&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blidormf&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=0DFF00&icon_color=0DFF00&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 <br>
