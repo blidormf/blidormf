@@ -4,7 +4,7 @@
   <h1>Hi, I'm Adhi</h1>
   
   <p align="center">
-    Full Stack Developer · Building with 💚
+    Building with 💚
   </p>
   
   <br>
