@@ -47,6 +47,7 @@ I'm a software developer who enjoys building things that are both useful and tho
       <td>
         <h3>Frontend Development</h3>
         <a href="#"><img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=0DFF00"/></a><br>
+        <a href="#"><img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=0DFF00"/></a><br>
         <a href="#"><img src="https://img.shields.io/badge/HTML%20%26%20CSS-0D1117?style=for-the-badge&logo=html5&logoColor=0DFF00"/></a>
       </td>
     </tr>
@@ -59,6 +60,7 @@ I'm a software developer who enjoys building things that are both useful and tho
       <td>
         <h3>Tools & Others</h3>
         <a href="#"><img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=0DFF00"/></a><br>
+        <a href="#"><img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=0DFF00"/></a><br>
         <a href="#"><img src="https://img.shields.io/badge/Shell-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=0DFF00"/></a><br>
         <a href="#"><img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=0DFF00"/></a>
       </td>
